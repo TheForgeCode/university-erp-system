@@ -94,7 +94,7 @@ On first run:
 - Linux environment
 
 ### Clean Setup
-```bash
+bash
 rm -rf target/
 rm -rf data/
 
