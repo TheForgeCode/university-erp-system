@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+out/
+data/*.db
+*.class
+*.log
