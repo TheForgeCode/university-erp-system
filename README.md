@@ -91,7 +91,6 @@ On first run:
 ### Prerequisites
 - JDK 24 installed
 - Maven installed
-- Linux environment
 
 ### Clean Setup
 bash
